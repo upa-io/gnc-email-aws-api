@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-v2-sdk, email-amazon-ses, gcn-aws-cloud-app, gcn-aws-email, gcn-bom, gcn-license, graalvm, http-client, java, java-application, junit, logback, maven, maven-enforcer-plugin, netty-server, properties, reactor, readme, serialization-jackson, shade]
